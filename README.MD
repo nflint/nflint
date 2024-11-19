@@ -9,23 +9,24 @@ I'm a seasoned Technical Leader who's helped scale companies from scrappy startu
 ### 🚀 Career Highlights
 - Started an digital agency building ecommerce solutions (among other cool things) bootstrapping and running the busines for 12 years before an exit
 - Helped grow PillPack from $30M → $300M (then Amazon came knocking 💰)
+- Helped to launch Amazon Pharmacy
 - Launched Amazon Pharmacy's Auto-Refill system (because who remembers to order meds?)
 - Built Packalytics, a growth ops platform that made everyone's life easier
-- Turned a 90-minute pharmacy call center response time into 5 minutes (you're welcome!)
+- Built a successful agency from the gound up 
 - Currently building a tool to help streamline the job hunting process
 
 ### 🎮 Tech Stuff I Geek Out On
-- AWS (it's like Legos, but for grownups)
+- AWS 
 - Data Engineering & Analytics
 - Growth Operations
 - Healthcare Tech
 - Enterprise Architecture
 
-## 🏃‍♂️ When Not Making Spreadsheets
+## 🏃‍♂️ When Not Making Sh*t Happen
 
 You'll find me:
 - 🎿 Shredding pow in the Wasatch Mountains
-- 🚵 Bombing down Park City's epic singletrack
+- 🚵 Riding Park City's epic singletrack
 - 🏄‍♂️ Chasing waves (when I can escape the mountains)
 - 👨‍💻 Tinkering with side projects (because old habits die hard)
 
