@@ -4,7 +4,7 @@ Tech leader by day, mountain enthusiast by... also day 🏔️ (work-life balanc
 
 ## 🎯 What I'm About
 
-I'm a seasoned Technical Program Manager who's helped scale companies from scrappy startups to tech giants. Currently plotting my next adventure while consulting with healthcare startups through Mindshare Ventures.
+I'm a seasoned Technical Leader who's helped scale companies from scrappy startups to tech giants. Currently plotting my next adventure while consulting with healthcare startups through Mindshare Ventures.
 
 ### 🚀 Career Highlights
 - Started an digital agency building ecommerce solutions (among other cool things) bootstrapping and running the busines for 12 years before an exit
