@@ -32,7 +32,7 @@ You'll find me:
 
 ### 🛠️ Current Side Projects
 I might not write as much code these days, but I still love building things. Currently experimenting with:
-- Healthcare tech innovations
+- Building micro app that leverage AI for everyday stuff. 
 - Growth automation tools
 - Whatever shiny new tech catches my eye
 
