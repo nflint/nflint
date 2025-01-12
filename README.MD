@@ -14,6 +14,11 @@ I'm a seasoned Technical Leader who's helped scale companies from scrappy startu
 - Built Packalytics, a growth ops platform that made everyone's life easier
 - Currently building a tool to help streamline the job hunting process
 
+### 📈 Current Work Projects (all consulting)
+- Driving strategy at a pre-series A by aligning the team on the 5 year strategic plan in advance of fundraising efforts - this company is going to change the zero party data story
+- Technical roadmap and GA launch plan for music industry start-up (VIDA) - I have little doubt these guys will be changing how artists interact with fans
+- Helping a variety of smaller healthcare companies with streamlining their tech and operations to drive great efficiency and save $$ 
+
 ### 🎮 Tech Stuff I Geek Out On
 - AWS 
 - Data Engineering & Analytics
@@ -22,7 +27,7 @@ I'm a seasoned Technical Leader who's helped scale companies from scrappy startu
 - Enterprise Architecture
 - AI
 - AI
-- AI
+- Also, AI
 
 ## 🏃‍♂️ When Not Making Sh*t Happen
 
