@@ -12,7 +12,6 @@ I'm a seasoned Technical Leader who's helped scale companies from scrappy startu
 - Helped to launch Amazon Pharmacy
 - Launched Amazon Pharmacy's Auto-Refill system (because who remembers to order meds?)
 - Built Packalytics, a growth ops platform that made everyone's life easier
-- Built a successful agency from the gound up 
 - Currently building a tool to help streamline the job hunting process
 
 ### 🎮 Tech Stuff I Geek Out On
@@ -21,18 +20,22 @@ I'm a seasoned Technical Leader who's helped scale companies from scrappy startu
 - Growth Operations
 - Healthcare Tech
 - Enterprise Architecture
+- AI
+- AI
+- AI
 
 ## 🏃‍♂️ When Not Making Sh*t Happen
 
 You'll find me:
-- 🎿 Shredding pow in the Wasatch Mountains
+- 🎿 Hunting pow in the Wasatch Mountains
 - 🚵 Riding Park City's epic singletrack
 - 🏄‍♂️ Chasing waves (when I can escape the mountains)
 - 👨‍💻 Tinkering with side projects (because old habits die hard)
+- 👧 Raising two awesome kids 
 
 ### 🛠️ Current Side Projects
 I might not write as much code these days, but I still love building things. Currently experimenting with:
-- Building micro app that leverage AI for everyday stuff. 
+- Building micro app that leverage AI for everyday stuff
 - Growth automation tools
 - Whatever shiny new tech catches my eye
 
